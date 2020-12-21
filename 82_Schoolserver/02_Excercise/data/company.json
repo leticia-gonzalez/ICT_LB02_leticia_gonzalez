@@ -1,0 +1,12 @@
+{
+"company": [{
+  "id": 101, "name": "Manor", "contact": "Sara Meier", "phone": 794678097, "email": "support@manor.ch",
+  "url": "https://www.manor.ch/", "profession": "Detailhändler"
+  }, {
+    "id": 102, "name": "Zara", "contact": "Peter Müller", "phone": 794678097, "email": "support@zara.com",
+    "url": "https://www.zara.com//", "profession": "Detailhändler"
+  }, {
+    "id": 103, "name": "Globus", "contact": "Stefan Keller", "phone": 794678097, "email": "support@globus.ch",
+    "url": "https://www.globus.ch/", "profession": "Detailhändler"
+  }]
+}
